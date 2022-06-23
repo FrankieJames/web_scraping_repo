@@ -1,4 +1,4 @@
-#!/Users/frankiejames/Documents/GitHub/web_scraping_repo/wbs_env/bin/python3.9
+#!/Users/frankiejames/Documents/GitHub/web_scraping_repo/wbs_env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
